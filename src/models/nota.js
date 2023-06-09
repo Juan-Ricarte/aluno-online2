@@ -31,7 +31,7 @@ class Nota {
             if (mediaFinal >=0   && mediaFinal < 3 )
                 return "II";
         else 
-            return "SR"
+            return "SR";
     }
 }
 
